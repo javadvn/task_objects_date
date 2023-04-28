@@ -53,7 +53,7 @@
 // const carService = new CarService('RepairCarNow', { from: '90:00', till: '20:00' });
 // carService.repairCar('BMW');
 
-
+// // task-4
 class Dictionary {
   constructor (name){
     this.name = name;
